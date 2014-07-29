@@ -1,0 +1,20 @@
+{
+    "code": "7",
+    "name": "Coupon de 10%",
+    "description": "Coupon para clientes com mais de 1 ano de assinatura do serviço",
+    "discount": {
+        "value": "100000000",
+        "type": "PERCENT"
+    },
+    "status": "ACTIVE",
+    "duration": {
+        "type": "FOREVER",
+        "occurrences": 12
+    },
+    "expiration_date": {
+        "day": 10,
+        "month": 10,
+        "year": 2013
+    },
+    "max_redemptions": 10
+}
